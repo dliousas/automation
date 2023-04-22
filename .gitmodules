@@ -1,0 +1,3 @@
+[submodule "byz-transcription"]
+	path = byz-transcription
+	url = https://github.com/dliousas/byz-transcription.git
